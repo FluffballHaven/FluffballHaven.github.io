@@ -5,8 +5,7 @@ nav_order: 1
 has_children: false
 permalink: /index
 ---
-<button type="button" name="button" class="btn-green" href="https://t.me/fluffballhaven">Join Channel</button>
-<button type="button" name="button" class="btn-green" href="https://t.me/fluffballhavenchat">Join Chat</button>
-
+[Join Channel](https://t.me/fluffballhaven){: .btn .btn-green }
+[Join Chat](https://t.me/fluffballhavenchat){: .btn .btn-blue }
 Welcome to the about page for the fluffball haven!
 TODO Add About Part here
