@@ -1,16 +1,9 @@
 ---
 layout: default
 title: Red Kitters
-has_children: false
-parent: Admins
+parent: admins
 permalink: admins/red_kitters
 ---
-
-
-| Kind        | Link          |
-|:-------------|:------------------|
-| Telegram Username           | [@LakesideMiners](t.me/lakesideminers) | 
-| Social Links | [redsserver.com](redsserver.com)   |
 
 
 # About
