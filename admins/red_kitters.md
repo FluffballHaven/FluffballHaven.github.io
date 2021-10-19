@@ -2,6 +2,7 @@
 layout: default
 title: Red Kitters
 has_children: false
+parent: Admins
 permalink: admins/red_kitters
 ---
 
