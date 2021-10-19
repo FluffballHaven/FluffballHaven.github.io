@@ -1,7 +1,7 @@
 ---
 layout: default
-title: LakesideMiners
-has_children: true
+title: Red Kitters
+has_children: false
 permalink: admins/red_kitters
 ---
 
