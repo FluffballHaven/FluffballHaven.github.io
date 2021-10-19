@@ -11,4 +11,5 @@ I hope you enjoy your stay in the Fluffball Haven!
 
 # Links
 Telegram Username: [@LakesideMiners](t.me/lakesideminers)
+
 Webpage/Socal Links: [redsserver.com](redsserver.com)
