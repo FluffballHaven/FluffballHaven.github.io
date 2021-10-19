@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Red Kitters
-parent: admins
-permalink: admins/red_kitters
+parent: Admins
 ---
 
 
