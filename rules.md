@@ -4,12 +4,18 @@ title: Rules
 has_children: false
 permalink: /rules
 ---
-ADMINS
+# ADMINS
+
 @EvaTheSynthAvali 
+
 @SLwoof
+
 @shyshyhyenatheoriginalhunter
+
 @LakesideMiners 
+
 @VaruFariston 
+
 @Moss_Felfel
 
 # Rules
