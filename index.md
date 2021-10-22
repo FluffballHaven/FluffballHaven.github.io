@@ -4,6 +4,7 @@ title: Welcome
 nav_order: 1
 has_children: false
 permalink: /index
+chatName: FluffBallHaven
 ---
 
 # WELCOME!
@@ -18,3 +19,6 @@ There will sometimes be personal posts or Polls involving the channel or project
 There will also be forwards occasionally from personal channels that we also run if its fitting to the channel
 
 [Submit a Post!](https://t.me/fluffballhavensub_bot){: .btn .btn-purple }
+
+
+{% include telegramWidget.html id=page.chatName %}
