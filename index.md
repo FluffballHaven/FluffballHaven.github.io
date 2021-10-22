@@ -13,4 +13,7 @@ permalink: /index
 
 Welcome to the about page for the fluffball haven!
 
-TODO Add About Part here
+Mostly we post content we find cute/funny, there will likely be forwards from other channels to give credit to them too
+There will sometimes be personal posts or Polls involving the channel or projects, you can fully ignore these if you want to.
+There will also be forwards occasionally from personal channels that we also run if its fitting to the channel
+
