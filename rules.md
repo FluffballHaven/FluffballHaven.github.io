@@ -66,7 +66,7 @@ Please seek out trained help if you're in need of assistance. Do not rely on the
 12. **No suicidal or self harm content.**
 Anything involving jokes and or discussing methods is entirely not allowed. If you or someone is in need of help please locate your local assistance contacts, if it is an emergency call your local emergency services..
 
-13.**Please be mindful of your words.**
+13. **Please be mindful of your words.**
 Having excessive arguments, rude or pessimistic responses you may receive a warning, this does not mean negativity is not allowed.
 please be aware of your surroundings and treat people with respect.
 
