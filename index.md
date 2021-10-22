@@ -17,3 +17,4 @@ Mostly we post content we find cute/funny, there will likely be forwards from ot
 There will sometimes be personal posts or Polls involving the channel or projects, you can fully ignore these if you want to.
 There will also be forwards occasionally from personal channels that we also run if its fitting to the channel
 
+[Submit a Post!](https://t.me/fluffballhavensub_bot){: .btn .btn-purple }
