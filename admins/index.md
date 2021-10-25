@@ -5,5 +5,16 @@ has_children: true
 permalink: admins/index
 ---
 # Admins
-Below, you will be able to see a link to the about page for each admin.
-They are not in any particaler order
+To the Left, you will be able to see a link to the about page for each admin(who has made a bio page) and below is the full list
+
+@EvaTheSynthAvali
+
+@SLwoof
+
+@LakesideMiners
+
+@VaruFariston
+
+@shyshyhyenatheoriginalhunter
+
+@moshfox
