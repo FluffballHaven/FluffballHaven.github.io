@@ -1,6 +1,8 @@
-remote_theme: pmarsceill/just-the-docs
+remote_theme: pmarsceill/just-the-docs # DO NOT CHANGE THIS LINE!
+
 title: FluffBall Haven
 description: The place on the web for the FluffBall Haven
-color_scheme: dark
-last_edit_timestamp: true
-last_edit_time_format: "%b %e %Y at %I:%M %p"
+
+color_scheme: dark # Use the dark color scheme
+search_enabled: false # Search is not needed, so disabling it
+
