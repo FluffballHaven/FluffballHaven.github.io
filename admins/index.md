@@ -7,14 +7,14 @@ permalink: admins/index
 # Admins
 To the Left, you will be able to see a link to the about page for each admin(who has made a bio page) and below is the full list
 
-@EvaTheSynthAvali
+@EvaTheSynthAvali (The temporary owner!)
 
-@SLwoof
+@SLwoof (Dadmin!)
 
-@LakesideMiners
+@LakesideMiners (Web and bot master!)
 
-@VaruFariston
+@VaruFariston 
 
-@shyshyhyenatheoriginalhunter
+@shyshyhyenatheoriginalhunter (A cute pink yeen!)
 
-@moshfox
+@moshfox (Our newest addition to the team!)
