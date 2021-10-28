@@ -8,6 +8,8 @@ chatName: FluffBallHaven
 ---
 
 # WELCOME!
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=The%20FluffBall%20Haven&fontSize=90)
+
 
 [Join Channel](https://t.me/fluffballhaven){: .btn .btn-green }
 [Join Chat](https://t.me/fluffballhavenchat){: .btn .btn-blue }
