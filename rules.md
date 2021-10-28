@@ -21,6 +21,7 @@ permalink: /rules
 # Rules
 
 **Please note, we(the admins) are not paid to do this, please be patient with us.**
+0. **DO NOT BLOCK THE ADMINS** 
 
 1. **This chat is Strictly SFW**
 Any and all NSFW memes are not allowed and will be removed via the admins discretion.
