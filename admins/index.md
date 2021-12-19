@@ -13,8 +13,6 @@ To the Left, you will be able to see a link to the about page for each admin(who
 
 @LakesideMiners (Web and bot master!)
 
-@VaruFariston 
-
 @shyshyhyenatheoriginalhunter (A cute pink yeen!)
 
 @moshfox (Our newest addition to the team!)
